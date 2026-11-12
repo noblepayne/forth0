@@ -1,0 +1,11 @@
+[package]
+name = "forth-driver"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "driver"
+path = "src/main.rs"
+
+[profile.dev]
+opt-level = 0
