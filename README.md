@@ -1,4 +1,4 @@
-# rustforth (placeholder name) — a Forth REPL in the Linux kernel
+# forth0 — a Forth REPL in the Linux kernel
 
 A Rust-for-Linux module that puts an interactive Forth interpreter in
 ring 0. Write a sentence, read the kernel back. Built for a 5-minute
